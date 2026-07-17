@@ -1,6 +1,3 @@
-# secure-coding-preflight-rules
-A reusable security checklist for coding assistants, IDE agents, classroom projects, and software-development workflows.
-
 # Secure Coding Preflight Rules
 
 A reusable set of security rules for coding assistants, IDE agents, classroom
